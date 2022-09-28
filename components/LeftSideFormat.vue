@@ -10,7 +10,7 @@
             <div class="col-md-6">
                 <div class="common-heading">
                     <h3> {{ leftTitle }}  </h3>
-                    
+                    <h4> hello </h4>
                 </div>
             </div>
         </div>
